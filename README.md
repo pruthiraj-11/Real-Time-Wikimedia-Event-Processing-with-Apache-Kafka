@@ -1,4 +1,4 @@
-# 🚀 Apache Kafka Wikimedia Queueing
+# 🚀 Real-Time Wikimedia Event Processing with Apache Kafka
 
 ## 📚 Overview
 
